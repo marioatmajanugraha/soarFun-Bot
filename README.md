@@ -41,6 +41,12 @@ Sebelum menjalankan bot, pastikan Anda telah menginstal:
 ## Siapkan File Konfigurasi:
 Buat file tokens.txt dan masukkan token Anda di dalamnya.
 
+Cara Ambil Token: 
+
+1. Buka Web Telegram
+2. Masuk ke GameApp SoarFun
+3. Tekan F12 >> cari Network terus klik {graph=} ambil Bearer token
+
 Buat file proxy.txt jika Anda ingin menggunakan proxy (opsional).
 
 ---
