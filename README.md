@@ -74,16 +74,10 @@ Buat Pull Request.
 
 ---
 
-## Follow dan Hubungi Kami 📞
+## 📞 Kontak
+Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
 
-Follow Channel Telegram:
-**https://t.me/airdroplocked**
-
-Airdrop Locked untuk informasi terbaru seputar airdrop dan proyek blockchain.
-
-## Kontak Bisnis:
-
-Hubungi @balveerxyz untuk kerja sama bisnis atau pertanyaan lebih lanjut
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked)
 
 ---
 
